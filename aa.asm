@@ -1,0 +1,5 @@
+ORG 00h
+MOV A,#03h
+MOV B,#02h
+ADD A,B
+END
